@@ -8,7 +8,6 @@ scoreTracker.style.visibility = 'hidden'
 let test = document.querySelector('#clickstart')
 document.querySelector(".instructionImg").style.visibility = 'hidden'
 
-
 test.addEventListener('click', async () => {
 test.style.visibility = 'hidden';
 container.style.visibility = 'visible';
